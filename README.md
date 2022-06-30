@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ardana Firmansyah
+### Hi there 👋
 
 <!--
 **danzlan12/danzlan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
